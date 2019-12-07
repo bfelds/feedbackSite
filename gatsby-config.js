@@ -25,4 +25,5 @@ module.exports = {
     },
     'gatsby-plugin-material-ui',
   ],
+  pathPrefix: "/feedbackSite",
 }
